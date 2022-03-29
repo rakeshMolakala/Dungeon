@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DungeonFinal:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DungeonFinal_jar</output-path>
+    <root id="archive" name="DungeonFinal.jar">
+      <element id="module-output" name="DungeonFinal" />
+    </root>
+  </artifact>
+</component>
